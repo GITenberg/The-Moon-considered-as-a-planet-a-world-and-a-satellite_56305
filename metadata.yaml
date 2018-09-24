@@ -1,5 +1,8 @@
 _repo: The-Moon-considered-as-a-planet-a-world-and-a-satellite_56305
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56305-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Nasmyth, James
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '48773'
     url: http://www.gutenberg.org/2009/agents/48773
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56305#The-Moon-considered-as-a-planet-a-world-and-a-satellite
 gutenberg_issued: '2018-01-04'
 gutenberg_type: Text
 identifiers:
