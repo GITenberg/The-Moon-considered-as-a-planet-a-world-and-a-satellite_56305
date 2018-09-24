@@ -1,0 +1,33 @@
+_repo: The-Moon-considered-as-a-planet-a-world-and-a-satellite_56305
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Nasmyth, James
+    aliases:
+    - Nasmyth, James Hall
+    - Nasmith, James
+    - Naesmyth, James
+    - Nesmyth, James
+    birthdate: 1808
+    deathdate: 1890
+    gutenberg_agent_id: '255'
+    url: http://www.gutenberg.org/2009/agents/255
+    wikipedia: http://en.wikipedia.org/wiki/James_Nasmyth
+  - agent_name: Carpenter, James
+    gutenberg_agent_id: '48773'
+    url: http://www.gutenberg.org/2009/agents/48773
+description: ''
+gutenberg_issued: '2018-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Moon
+
+  considered as a planet, a world, and a satellite.'
+url: http://www.gutenberg.org/ebooks/56305
